@@ -32,7 +32,7 @@ This project retrieves sample user data from the JSONPlaceholder API, explores i
 ## 4. Project Structure
 
 ```text
-api-analysis/
+day1-api-analysis/
 ├── analysis.py
 ├── requirements.txt
 ├── README.md
